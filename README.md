@@ -1,2 +1,2 @@
 # House-Price-Prediction
-A house price prediction project
+In this project I used two regression models to predict the price of a house given it's features. The features include the age of the house, total number of rooms, total number of bedrooms, population, households,	median income, 	median house value and ocean proximity. Data exploration and data engineering steps were coded to enhance the performance of the model. The models used are Random Forest Regressor and Linear Regression. The Random Forest Regresson being a kind of non parametric model, exceeded the performance of Linear Regression giving a score of 82%. 
